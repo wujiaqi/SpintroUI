@@ -1,3 +1,3 @@
 # SpintroUI
 Spinnaker training project
-v6
+v7
